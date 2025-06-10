@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aabir De
-- 🌱 I’m currently learning DSA, Machine Learning and Web Development
-- 📫 How to reach me ... through this page
+-  Hi, I’m Aabir De
+-  I’m currently learning DSA, Machine Learning and Web Development
+-  How to reach me ... through this page
 
 
 <!---
