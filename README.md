@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @koder-hal9000
-- 👀 I’m interested in nothing yet 
-- 🌱 I’m currently learning DSA and Machine Learning
-- 💞️ I’m looking to collaborate on anything that will keep me employed
-- 📫 How to reach me ...
-- ⚡ Fun fact: There isnt any
+- 👋 Hi, I’m @aabirde
+- 🌱 I’m currently learning DSA, Machine Learning and Web Development
+- 📫 How to reach me ... through this page
+
 
 <!---
 koder-hal9000/koder-hal9000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
