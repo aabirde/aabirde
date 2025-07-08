@@ -6,9 +6,9 @@
 
 
 
--[![Aabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aabirde)](https://github.com/anuraghazra/github-readme-stats)
--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabirde&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
--
+[![Aabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aabirde)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabirde&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 koder-hal9000/koder-hal9000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
