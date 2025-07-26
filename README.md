@@ -29,7 +29,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
----
+## Statistics
 
 
 [![Aabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aabirde)](https://github.com/anuraghazra/github-readme-stats)
