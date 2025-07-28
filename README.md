@@ -1,6 +1,6 @@
 -  Hi, I’m Aabir De
 -  I’m currently learning DSA, Machine Learning and Web Development
--  
+
 
 
 ## Skills & Tools
@@ -13,7 +13,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-4b0082?style=for-the-badge&logo=Flask&logoColor=white)
-
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 
 ### AI/ML & Data Science  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
