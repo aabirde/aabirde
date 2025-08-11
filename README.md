@@ -36,7 +36,7 @@
 ## Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabirde&layout=donut-vertical&theme=radical&hide_border=false&border_radius=10&bg_color=00000000" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabirde&layout=pie&theme=radical&hide_border=false&border_radius=10&bg_color=00000000" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=aabirde&show_icons=true&theme=radical&hide_border=false&border_radius=10&bg_color=00000000" width="48%"/>
 </div>
 
